@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1693445502 source:c:\users\lautaro\onedrive\escritorio\p1-grupo14.c\main.c
+	<stdio.h>
+	"LSO.h"
+	<ctype.h>
+
+1693441746 c:\users\lautaro\onedrive\escritorio\p1-grupo14.c\lso.h
+	"Envios.h"
+	<String.h>
+
+1693451552 c:\users\lautaro\onedrive\escritorio\p1-grupo14.c\envios.h
+
+1693451691 source:c:\users\lautaro\onedrive\escritorio\universidad\p1-grupo14.c\main.c
+	<stdio.h>
+	"LSO.h"
+	<ctype.h>
+
+1693878400 c:\users\lautaro\onedrive\escritorio\universidad\p1-grupo14.c\lso.h
+	"Envios.h"
+	<String.h>
+
+1693451552 c:\users\lautaro\onedrive\escritorio\universidad\p1-grupo14.c\envios.h
+
+1694102425 source:c:\users\mateo\onedrive\escritorio\p1-grupo14.c\p1-grupo14.c\main.c
+	<stdio.h>
+	"LSO.h"
+	<ctype.h>
+
+1694102488 c:\users\mateo\onedrive\escritorio\p1-grupo14.c\p1-grupo14.c\lso.h
+	"Envios.h"
+	<String.h>
+
+1694095631 c:\users\mateo\onedrive\escritorio\p1-grupo14.c\p1-grupo14.c\envios.h
+
+1694216554 source:c:\users\mateo\downloads\p1-grupo14.c\p1-grupo14.c\main.c
+	<stdio.h>
+	"LSO.h"
+	<ctype.h>
+
+1694216563 c:\users\mateo\downloads\p1-grupo14.c\p1-grupo14.c\lso.h
+	"Envios.h"
+	<String.h>
+
+1694210118 c:\users\mateo\downloads\p1-grupo14.c\p1-grupo14.c\envios.h
+
+1694480501 source:c:\users\lautaro\onedrive\escritorio\p1-grupo14.c\p1-grupo14.c\main.c
+	<stdio.h>
+	"LSO.h"
+	<ctype.h>
+
+1694480429 c:\users\lautaro\onedrive\escritorio\p1-grupo14.c\p1-grupo14.c\lso.h
+	"Envios.h"
+	<String.h>
+
+1694479425 c:\users\lautaro\onedrive\escritorio\p1-grupo14.c\p1-grupo14.c\envios.h
+
